@@ -1,19 +1,24 @@
 # CPE-322_Design_IV
-***Welcome to my github repository***
+***Welcome to my GitHub repository***
 ---
-## Projects
+## Project
 - Project 1
-- Project 2
-- Project 3
-- Project 4
-- Project 5
 ---
 ### Labs
-- Lab 1
-- Lab 2
-- Lab 3
-- Lab 4
-- Lab 5
+- Lab 1: GHDL and GTKWave
+- Lab 2: Command Line
+- Lab 3: Python
+- Lab 4: Django and Flask
+- Lab 5: Paho MQTT
+- Lab 6: Nodejs and Pystache
+- Lab 7: ThingSpeak and Google Sheet
+- Lab 8: Data Analysis
+- Lab 9: YANG
+- Lab 10: Blockchain
+---
+> aaa
+
+![No way Bro](fetchimage.jpg)
 ---
 #### Resources
 [Syntax](https://www.markdownguide.org/cheat-sheet/)
