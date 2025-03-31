@@ -2,7 +2,7 @@
 ***Welcome to my GitHub repository***
 ---
 ## Project
-- Project 1
+1. Project 1
 ---
 ### Labs
 - Lab 1: GHDL and GTKWave
@@ -16,9 +16,11 @@
 - Lab 9: YANG
 - Lab 10: Blockchain
 ---
-> aaa
+> No way Bro, what, how, no way
 
-![No way Bro](fetchimage.jpg)
+![No way Bro](https://wompimages.ampify.care/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F042%2F966%2Fcover12.jpg)
+---
+`Cout << "Barbeque Bacon Burger' << endl`
 ---
 #### Resources
 [Syntax](https://www.markdownguide.org/cheat-sheet/)
